@@ -1,28 +1,30 @@
 {
   "files": {
     "main.css": "/static/css/main.022eb82c.chunk.css",
-    "main.js": "/static/js/main.add3eead.chunk.js",
-    "main.js.map": "/static/js/main.add3eead.chunk.js.map",
+    "main.js": "/static/js/main.40a78cf7.chunk.js",
+    "main.js.map": "/static/js/main.40a78cf7.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.10434ef0.js",
     "runtime-main.js.map": "/static/js/runtime-main.10434ef0.js.map",
-    "static/js/2.0b32ae95.chunk.js": "/static/js/2.0b32ae95.chunk.js",
-    "static/js/2.0b32ae95.chunk.js.map": "/static/js/2.0b32ae95.chunk.js.map",
+    "static/js/2.bd74e2c2.chunk.js": "/static/js/2.bd74e2c2.chunk.js",
+    "static/js/2.bd74e2c2.chunk.js.map": "/static/js/2.bd74e2c2.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.a75e1f2c0c5c55a24059018dc5b7b471.js": "/precache-manifest.a75e1f2c0c5c55a24059018dc5b7b471.js",
+    "precache-manifest.81ccd72a19c676ab857a3220381a8590.js": "/precache-manifest.81ccd72a19c676ab857a3220381a8590.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.022eb82c.chunk.css.map": "/static/css/main.022eb82c.chunk.css.map",
-    "static/js/2.0b32ae95.chunk.js.LICENSE.txt": "/static/js/2.0b32ae95.chunk.js.LICENSE.txt",
+    "static/js/2.bd74e2c2.chunk.js.LICENSE.txt": "/static/js/2.bd74e2c2.chunk.js.LICENSE.txt",
     "static/media/Amour.jpg": "/static/media/Amour.47e8b0c1.jpg",
     "static/media/CV.pdf": "/static/media/CV.350be7ca.pdf",
     "static/media/Profile.jpeg": "/static/media/Profile.00e67c03.jpeg",
     "static/media/image-0-02-06-7eaec8b33414fc993e2f3d3d6e7f8cec2d97d9879cd186d401f16732064ff583-V.jpg": "/static/media/image-0-02-06-7eaec8b33414fc993e2f3d3d6e7f8cec2d97d9879cd186d401f16732064ff583-V.279fbf3f.jpg",
     "static/media/new.jpg": "/static/media/new.440a3756.jpg",
-    "static/media/pb.jpg": "/static/media/pb.c8d64e9d.jpg"
+    "static/media/pb.jpg": "/static/media/pb.c8d64e9d.jpg",
+    "static/media/scl.png": "/static/media/scl.950ee9b4.png",
+    "static/media/uni.jpeg": "/static/media/uni.d0f66a3d.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.10434ef0.js",
-    "static/js/2.0b32ae95.chunk.js",
+    "static/js/2.bd74e2c2.chunk.js",
     "static/css/main.022eb82c.chunk.css",
-    "static/js/main.add3eead.chunk.js"
+    "static/js/main.40a78cf7.chunk.js"
   ]
 }
