@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c0008bd29ebfffc5f5ca4cc51b52ea6c",
+    "revision": "9c074ce59afe81818aa9c9ed9652a423",
     "url": "/index.html"
   },
   {
-    "revision": "cd528503384dbfb40445",
+    "revision": "df129edb0fd5003253d4",
     "url": "/static/css/main.022eb82c.chunk.css"
   },
   {
-    "revision": "95e83245f959ff87bf48",
-    "url": "/static/js/2.bd74e2c2.chunk.js"
+    "revision": "f54ea6ac12b866cfdd2c",
+    "url": "/static/js/2.4b43d0fc.chunk.js"
   },
   {
     "revision": "29eb69a08ea4198f7b46e1db8a3d5045",
-    "url": "/static/js/2.bd74e2c2.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.4b43d0fc.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "cd528503384dbfb40445",
-    "url": "/static/js/main.495db5ea.chunk.js"
+    "revision": "df129edb0fd5003253d4",
+    "url": "/static/js/main.23e06d8a.chunk.js"
   },
   {
     "revision": "95a2f2f62ce7543f12e4",
@@ -32,12 +32,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/CV.350be7ca.pdf"
   },
   {
+    "revision": "5ce7ed83c9c4b96c57b4e01c0339e260",
+    "url": "/static/media/Original.5ce7ed83.png"
+  },
+  {
     "revision": "00e67c03cf862699b78bd2cf273e0429",
     "url": "/static/media/Profile.00e67c03.jpeg"
   },
   {
+    "revision": "985b2cf531ca5ddd5a95dcefc0b22d63",
+    "url": "/static/media/certificate.985b2cf5.png"
+  },
+  {
     "revision": "279fbf3fa935c0eb34ea0897101455cf",
     "url": "/static/media/image-0-02-06-7eaec8b33414fc993e2f3d3d6e7f8cec2d97d9879cd186d401f16732064ff583-V.279fbf3f.jpg"
+  },
+  {
+    "revision": "0df32690d28730996ed325fd9fec62b7",
+    "url": "/static/media/leo.0df32690.jpg"
   },
   {
     "revision": "440a37560309b7020f5e0a19ae1b29e4",
@@ -54,5 +66,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d0f66a3d7a4704aae98164260cd7b19c",
     "url": "/static/media/uni.d0f66a3d.jpeg"
+  },
+  {
+    "revision": "1b456d97bee7f79aefee516c1d1022cf",
+    "url": "/static/media/wiking.1b456d97.jpg"
   }
 ]);
